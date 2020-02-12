@@ -1,3 +1,5 @@
+syntax on
+set term=xterm-256color
 color slate
 set hlsearch
 hi Search cterm=NONE ctermfg=blue ctermbg=grey
